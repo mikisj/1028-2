@@ -1,0 +1,6 @@
+{
+  "name": "客戶管理系統 (CRM)",
+  "description": "專業級客戶關係與銷售商機管理系統，具備客戶檔案 360°、銷售管道看板、互動歷程追蹤與業績分析",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
